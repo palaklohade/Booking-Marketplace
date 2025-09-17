@@ -1,0 +1,5 @@
+{
+  "name": "Appoinment Scheduler",
+  "description": "A powerful scheduling application that integrates with Google Calendar to streamline appointment booking between buyers and sellers. Sellers can manage their availability, and buyers can easily find and book appointments.",
+  "requestFramePermissions": []
+}
